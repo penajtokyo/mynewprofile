@@ -1,5 +1,31 @@
+body{
+    background-color:#3f4c6b;
+
+}
+
 #myImage{
     margin-top: 55px;
     transform: rotate(90deg);
     height:400px;
+}
+
+.card{
+    background-color: #606c88;
+}
+
+.fonts{
+    font-family: 'Rajdhani', sans-serif;
+    color:white;
+}
+
+.cardStyle{
+    margin-top: 55px;
+}
+
+.cardStyleFirst{
+    margin-top: 140px;
+}
+
+.linkColor{
+    color:#03A9F4;
 }
